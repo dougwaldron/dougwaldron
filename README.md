@@ -6,4 +6,4 @@ My name is Doug Waldron, and I work as an application developer here ⬇
 
 💬 Feel free to [contact me here](https://github.com/dougwaldron/dougwaldron/issues).
 
-[![Doug's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougwaldron&count_private=true&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Doug's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougwaldron&count_private=true&hide=stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
